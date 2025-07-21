@@ -1,5 +1,5 @@
-### Hi there 👋, I'm Nishith Chandra Saha
-#### Software Developer
+## Hi there 👋, I'm Nishith Chandra Saha
+### Software Developer
 ![Software Developer](https://www.ryadel.com/wp-content/uploads/2020/09/asp-net-core-c-sharp-logo.jpg)
 
 I am a passionate and dedicated Computer Science student with a strong ambition to become a skilled .NET developer. Currently pursuing my degree in CSE, I am constantly exploring new technologies and sharpening my programming skills, particularly in C#, ASP.NET, and web development. Beyond academics, I enjoy building small projects that challenge my logic and creativity. I believe in writing clean, efficient code and always strive to learn from feedback and experience. With a curious mind and a collaborative spirit, I’m eager to grow in the software development field and contribute to innovative solutions that make a real impact.
