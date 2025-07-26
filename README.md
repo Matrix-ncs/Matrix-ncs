@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Nishith Chandra Saha</h1>
 <h3 align="center">I am a passionate and dedicated Computer Science student with a strong ambition to become a skilled .NET developer. Currently pursuing my degree in CSE, I am constantly exploring new technologies and sharpening my programming skills, particularly in C#, .NET Core, and web development. Beyond academics, I enjoy building small projects that challenge my logic and creativity. I believe in writing clean, efficient code and always strive to learn from feedback and experience. With a curious mind and a collaborative spirit, I’m eager to grow in the software development field and contribute to innovative solutions that make a real impact.</h3>
 
-<h3 align="left">:<a href="https://www.github.com/matrix-ncs" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/matrix-ncs?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a> <p align="left"> <img src="https://komarev.com/ghpvc/?username=matrix-ncs&label=Profile%20views&color=0e75b6&style=flat" alt="matrix-ncs" /> </p></h3>
+<p align="left"><a href="https://www.github.com/matrix-ncs" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/matrix-ncs?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a> <img src="https://komarev.com/ghpvc/?username=matrix-ncs&label=Profile%20views&color=0e75b6&style=flat" alt="matrix-ncs" /> </p>
 
 
 - 🧠 I’m currently learning **C# , .NET Framework**
