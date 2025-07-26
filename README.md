@@ -18,7 +18,7 @@
 <a href="https://linkedin.com/in/matrix6in9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matrix6in9" height="30" width="40" /></a>
 <a href="https://fb.com/matrix6in9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="matrix6in9" height="30" width="40" /></a>
 <a href="https://instagram.com/nishith_saha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nishith_saha" height="30" width="40" /></a>
-<a href="https://discord.gg/345481631122980865" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="345481631122980865" height="30" width="40" /></a>
+<a href="https://discord.gg/TNPgvczS8h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="345481631122980865" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
