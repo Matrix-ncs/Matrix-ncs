@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nishith Chandra Saha</h1>
+<h1 align="center">Hi![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif), I'm Nishith Chandra Saha</h1>
 <h3 align="justify">I am a passionate and dedicated Computer Science student with a strong ambition to become a skilled .NET developer. Currently pursuing my degree in CSE, I am constantly exploring new technologies and sharpening my programming skills, particularly in C#, .NET Core, and web development. Beyond academics, I enjoy building small projects that challenge my logic and creativity. I believe in writing clean, efficient code and always strive to learn from feedback and experience. With a curious mind and a collaborative spirit, I’m eager to grow in the software development field and contribute to innovative solutions that make a real impact.</h3><br>
 
 <p align="left"><a href="https://www.github.com/matrix-ncs" target="_blank" rel="noreferrer"><img
